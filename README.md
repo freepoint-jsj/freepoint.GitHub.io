@@ -13,3 +13,4 @@
 * [谈谈最近用过的翻译软件](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/1#issue-1571858794)   
 * [有趣的时间、空间定义](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/2#issue-1571862184)
 * [我为什么在Github issue 写博客](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/4#issue-1575885261)
+* [通勤 4 小时，坐 10 趟地铁，地狱级打工模式](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/6#issue-1577307107)
