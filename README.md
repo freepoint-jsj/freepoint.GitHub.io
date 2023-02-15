@@ -4,10 +4,6 @@
 * 🔗[telegram](https://t.me/quweixiaoji)
 
 * 🔗[V2EX](https://www.v2ex.com/member/freepoint)
-<br>
-<br>
-
-![image](https://user-images.githubusercontent.com/122953296/217706226-44bd8774-d75a-4564-9a1e-8eb4f0521f86.png)
 
 # 最近文章
 * [谈谈最近用过的翻译软件](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/1#issue-1571858794)   
@@ -15,3 +11,8 @@
 * [我为什么在Github issue 写博客](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/4#issue-1575885261)
 * [通勤 4 小时，坐 10 趟地铁，地狱级打工模式](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/6#issue-1577307107)
 * [澳门电信SIM小蓝卡初体验](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/7#issue-1583917910)
+
+# 方法论
+
+![image](https://user-images.githubusercontent.com/122953296/217706226-44bd8774-d75a-4564-9a1e-8eb4f0521f86.png)
+
