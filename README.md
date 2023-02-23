@@ -14,6 +14,7 @@
 * [通勤 4 小时，坐 10 趟地铁，地狱级打工模式](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/6#issue-1577307107)
 * [澳门电信SIM小蓝卡初体验](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/7#issue-1583917910)
 * [读《柔软说话》的一些想法](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/8#issue-1590360853)
+* [极简生活的20个方法](https://github.com/freepoint-jsj/freepoint.GitHub.io/wiki/%E6%9E%81%E7%AE%80%E7%94%9F%E6%B4%BB%E7%9A%8420%E4%B8%AA%E6%96%B9%E6%B3%95)
 # 方法论
 
 ![image](https://user-images.githubusercontent.com/122953296/217706226-44bd8774-d75a-4564-9a1e-8eb4f0521f86.png)
