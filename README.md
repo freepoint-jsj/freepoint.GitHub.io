@@ -8,6 +8,7 @@
 * 🔗[V2EX](https://www.v2ex.com/member/freepoint)
 
 # 最近文章
+* [碳中和赛道整理](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/e2eafda802568f948f743ec913c056551e0b9db6/2022-10-14%20_%20%E7%A2%B3%E4%B8%AD%E5%92%8C%E8%B5%9B%E9%81%93%E6%95%B4%E7%90%86.md)
 * [谈谈最近用过的翻译软件](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/1#issue-1571858794)   
 * [有趣的时间、空间定义](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/2#issue-1571862184)
 * [我为什么在Github issue 写博客](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/4#issue-1575885261)
