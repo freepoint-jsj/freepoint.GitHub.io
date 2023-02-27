@@ -3,9 +3,9 @@
 # 交流、交友
 这是我写blog 的小破站，用最简单的 _issue_ 来记录平时的一些思考和摘录整理有趣的文档。喜欢的话可以订阅 `star`,一起愉快地玩耍,也可以关注下V站和Tg哦。
 
-* 🔗[telegram](https://t.me/quweixiaoji)
+🔗 [telegram](https://t.me/quweixiaoji)
 
-* 🔗[V2EX](https://www.v2ex.com/member/freepoint)
+🔗[V2EX](https://www.v2ex.com/member/freepoint)
 
 # 最近文章
 * [分享几张壁纸](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/134d8457220af8a683609ab7384b0c0764376ef6/%E5%88%86%E4%BA%AB%E5%87%A0%E5%BC%A0%E5%A3%81%E7%BA%B8.md)
