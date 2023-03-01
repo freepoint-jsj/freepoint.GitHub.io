@@ -5,6 +5,8 @@
 # 交流、交友 | Soical Media and Friends
 这是我写blog 的小破站，用最简单的 _issue_ 来记录平时的一些思考和摘录整理有趣的文档。喜欢的话可以订阅 `star`,一起愉快地玩耍,也可以关注下V站和Tg哦。
 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rotkaka13)
+
 ![image](https://user-images.githubusercontent.com/122953296/222032635-f5da0177-7ba3-4c05-acbc-3c92797c7524.png) [telegram](https://t.me/quweixiaoji) 
 
 ![image](https://user-images.githubusercontent.com/122953296/222033991-5d535bfd-859d-4628-ba32-94b4ed9b4028.png) [V2EX](https://www.v2ex.com/member/freepoint)
