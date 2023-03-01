@@ -12,6 +12,7 @@
 ![image](https://user-images.githubusercontent.com/122953296/222033991-5d535bfd-859d-4628-ba32-94b4ed9b4028.png) [V2EX](https://www.v2ex.com/member/freepoint)
 
 # 网络日志 | Weblog
+* [孤独的梵高，梵高的孤独](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/10#issue-1604392458)
 * [世界是自己的，与他人无关](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/9#issue-1604385717)
 * [分享几张壁纸](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/134d8457220af8a683609ab7384b0c0764376ef6/%E5%88%86%E4%BA%AB%E5%87%A0%E5%BC%A0%E5%A3%81%E7%BA%B8.md)
 * [碳中和赛道整理](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/e2eafda802568f948f743ec913c056551e0b9db6/2022-10-14%20_%20%E7%A2%B3%E4%B8%AD%E5%92%8C%E8%B5%9B%E9%81%93%E6%95%B4%E7%90%86.md)
