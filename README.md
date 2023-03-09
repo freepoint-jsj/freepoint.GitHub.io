@@ -31,6 +31,7 @@ _This is not a technical blog, it is currently a record of current topics or an 
 * _2023-02-06_： [有趣的时间、空间定义](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/2#issue-1571862184)
 
 ## 二、读书笔记 | Reading Notes
+* _2023-03-07_： [东西方文化 001 开题序语](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/14#issue-1612972531)
 * _2023-02-18_： [读《柔软说话》的一些想法](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/8#issue-1590360853)
 * _2023-02-08_： [碳中和赛道整理](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/e2eafda802568f948f743ec913c056551e0b9db6/2022-10-14%20_%20%E7%A2%B3%E4%B8%AD%E5%92%8C%E8%B5%9B%E9%81%93%E6%95%B4%E7%90%86.md)
 
