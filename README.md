@@ -1,25 +1,12 @@
-# 我是谁？ | Who l am ?
-上升到哲学层面的问题，老实说，还没想好，但对我似乎很重要...
-
-_Moving up to a philosophical level is something that I honestly haven't thought about yet, but it seems important to me..._
-
-# 建站想法 | About Website
-关于建站，一开始有很多话要说，诸如炫文采、技巧，引流之类的。但静心细想，我觉得写东西应该是一种纯粹的热爱，不费力的输出。多年后自己看看，或是留与后人（但愿别倒闭），应该挺酷的吧...
-
-_At first there was a lot to say about building a website, such as showing off literary skills, techniques, attracting traffic and so on. But when I think about it, I think writing should be a pure love and effortless output. It should be cool to see it for yourself in years to come, or to leave it for posterity (hopefully not to go out of business)..._
-# 交友 | Soical Media
+# 📑说明 
 这不是技术性博客，目前是记录整理当下的话题或者输出自己的想法，目前没有啥计划或者章法。用最简单的 _issue_ 来写的，简单、可讨论、可追溯历史就够了。喜欢的话可以订阅 `star`。
 
-_This is not a technical blog, it is currently a record of current topics or an output of my thoughts. I use the simplest _issue_ to write it, simple, discussable and traceable. Subscribe `star` if you like._
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rotkaka13)   👈   ![image](https://user-images.githubusercontent.com/122953296/222032635-f5da0177-7ba3-4c05-acbc-3c92797c7524.png) [telegram](https://t.me/quweixiaoji)   👈   ![image](https://user-images.githubusercontent.com/122953296/222033991-5d535bfd-859d-4628-ba32-94b4ed9b4028.png) [V2EX](https://www.v2ex.com/member/freepoint)  👈
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rotkaka13)
+<br>
 
-![image](https://user-images.githubusercontent.com/122953296/222032635-f5da0177-7ba3-4c05-acbc-3c92797c7524.png) [telegram](https://t.me/quweixiaoji) 
-
-![image](https://user-images.githubusercontent.com/122953296/222033991-5d535bfd-859d-4628-ba32-94b4ed9b4028.png) [V2EX](https://www.v2ex.com/member/freepoint)
-
-# 我的日志 | My blog
-## 一、网络日志
+# ⌛我的日志
+## 👨‍💻网络日志
 ### 2023年3月
 * _2023-03-01_： [柳智宇出家还俗的思考](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/11#issue-1604395962)
 * _2023-03-01_： [孤独的梵高，梵高的孤独](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/10#issue-1604392458)
@@ -32,14 +19,14 @@ _This is not a technical blog, it is currently a record of current topics or an 
 * _2023-02-06_： [谈谈最近用过的翻译软件](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/1#issue-1571858794)   
 * _2023-02-06_： [有趣的时间、空间定义](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/2#issue-1571862184)
 
-## 二、读书日志 | Reading Blog
+## 📖读书日志
 ### 2023年3月
 * _2023-03-07_： [东西方文化 001 开题序语](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/14#issue-1612972531)
 ### 2023年2月
 * _2023-02-18_： [读《柔软说话》的一些想法](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/8#issue-1590360853)
 * _2023-02-08_： [碳中和赛道整理](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/e2eafda802568f948f743ec913c056551e0b9db6/2022-10-14%20_%20%E7%A2%B3%E4%B8%AD%E5%92%8C%E8%B5%9B%E9%81%93%E6%95%B4%E7%90%86.md)
 
-## 三、小米语录 | xiaomi notes
+## 🖼️小米语录
 ### 2023年3月
 * _2023-03-12_：[活在自己的时区里](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/21#issue-1620039892)
 * _2023-03-12_：[生命意义的回答](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/22#issue-1620041019)
@@ -50,3 +37,11 @@ _This is not a technical blog, it is currently a record of current topics or an 
 * _2023-03-12_：[春有百花秋有月 ](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/27#issue-1620044749)
 * _2023-03-12_：[罗素的思考](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/28#issue-1620045142)
 * _2023-03-12_：[生活中素雅精致的物件](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/29#issue-1620045657)
+
+<br>
+
+# 😶我是谁？
+上升到哲学层面的问题，老实说，还没想好，但对我似乎很重要...
+
+# 💡建站想法
+关于建站，一开始有很多话要说，诸如炫文采、技巧，引流之类的。但静心细想，我觉得写东西应该是一种纯粹的热爱，不费力的输出。多年后自己看看，或是留与后人（但愿别倒闭），应该挺酷的吧...
