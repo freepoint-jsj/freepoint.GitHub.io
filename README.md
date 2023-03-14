@@ -6,6 +6,7 @@
 # 我的日志
 ## 「网络日志」
 ### 2023年3月
+* _2023-03-14_：[中国大历史](https://github.com/freepoint-jsj/freepoint.GitHub.io/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%8E%86%E5%8F%B2%E3%80%8B)
 * _2023-03-01_： [柳智宇出家还俗的思考](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/11#issue-1604395962)
 * _2023-03-01_： [孤独的梵高，梵高的孤独](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/10#issue-1604392458)
 * _2023-03-01_： [世界是自己的，与他人无关](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/9#issue-1604385717)
