@@ -6,6 +6,7 @@
 # 我的日志
 ## 「网络日志」
 ### 2023年3月
+* _2023-03-20_：[2030年后人类将逐渐永生](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/main/%E5%BA%93%E5%85%B9%E9%9F%A6%E5%B0%94%EF%BC%9A2030%E5%B9%B4%E5%90%8E%E4%BA%BA%E7%B1%BB%E5%B0%86%E9%80%90%E6%B8%90%E6%B0%B8%E7%94%9F%20.md)
 * _2023-03-01_： [柳智宇出家还俗的思考](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/11#issue-1604395962)
 * _2023-03-01_： [孤独的梵高，梵高的孤独](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/10#issue-1604392458)
 * _2023-03-01_： [世界是自己的，与他人无关](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/9#issue-1604385717)
