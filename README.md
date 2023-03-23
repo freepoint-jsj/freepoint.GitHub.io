@@ -2,11 +2,8 @@
 - 目前这里没写技术性博客，暂时记录整理当下的话题或者输出自己的想法，也没啥计划或者章法。
 - 用最简单的 _issue_ 来写的，简单、可讨论、可追溯历史就够了。喜欢的话可以订阅 `star`。
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rotkaka13)     
-
-![image](https://user-images.githubusercontent.com/122953296/222032635-f5da0177-7ba3-4c05-acbc-3c92797c7524.png) [telegram](https://t.me/quweixiaoji)   
-
-![image](https://user-images.githubusercontent.com/122953296/222033991-5d535bfd-859d-4628-ba32-94b4ed9b4028.png) [V2EX](https://www.v2ex.com/member/freepoint)  
+| [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rotkaka13) | ![image](https://user-images.githubusercontent.com/122953296/222032635-f5da0177-7ba3-4c05-acbc-3c92797c7524.png) [telegram](https://t.me/quweixiaoji)   | ![image](https://user-images.githubusercontent.com/122953296/222033991-5d535bfd-859d-4628-ba32-94b4ed9b4028.png) [V2EX](https://www.v2ex.com/member/freepoint) |
+| --- | --- | --- |
 
 # 我的日志
 ## 「网络日志」
