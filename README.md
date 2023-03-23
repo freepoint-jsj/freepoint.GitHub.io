@@ -26,7 +26,7 @@
 * _2023-02-18_： [读《柔软说话》的一些想法](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/8#issue-1590360853)
 * _2023-02-08_： [碳中和赛道整理](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/e2eafda802568f948f743ec913c056551e0b9db6/2022-10-14%20_%20%E7%A2%B3%E4%B8%AD%E5%92%8C%E8%B5%9B%E9%81%93%E6%95%B4%E7%90%86.md)
 ### 2023年1月
-* _2023-01-11_：[把邮箱改造成PKM利器](https://www.v2ex.com/notes/46346)
+* _2023-01-11_：[有用邮箱作为自己信息管理工具的人吗](https://www.v2ex.com/t/909245#reply13)
 
 ## 「手机备忘」
 ### 2023年3月
