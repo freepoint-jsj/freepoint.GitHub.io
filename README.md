@@ -1,7 +1,12 @@
-# 说明 
-这不是技术性博客，目前是记录整理当下的话题或者输出自己的想法，目前没有啥计划或者章法。用最简单的 _issue_ 来写的，简单、可讨论、可追溯历史就够了。喜欢的话可以订阅 `star`。
+# 简要说明 
+- 目前这里没写技术性博客，暂时记录整理当下的话题或者输出自己的想法，也没啥计划或者章法。
+- 用最简单的 _issue_ 来写的，简单、可讨论、可追溯历史就够了。喜欢的话可以订阅 `star`。
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rotkaka13)     ![image](https://user-images.githubusercontent.com/122953296/222032635-f5da0177-7ba3-4c05-acbc-3c92797c7524.png) [telegram](https://t.me/quweixiaoji)      ![image](https://user-images.githubusercontent.com/122953296/222033991-5d535bfd-859d-4628-ba32-94b4ed9b4028.png) [V2EX](https://www.v2ex.com/member/freepoint)  
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rotkaka13)     
+
+![image](https://user-images.githubusercontent.com/122953296/222032635-f5da0177-7ba3-4c05-acbc-3c92797c7524.png) [telegram](https://t.me/quweixiaoji)   
+
+![image](https://user-images.githubusercontent.com/122953296/222033991-5d535bfd-859d-4628-ba32-94b4ed9b4028.png) [V2EX](https://www.v2ex.com/member/freepoint)  
 
 # 我的日志
 ## 「网络日志」
@@ -17,11 +22,6 @@
 * _2023-02-08_： [我为什么在Github issue 写博客](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/4#issue-1575885261)
 * _2023-02-06_： [谈谈最近用过的翻译软件](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/1#issue-1571858794)   
 * _2023-02-06_： [有趣的时间、空间定义](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/2#issue-1571862184)
-
-## 「读书日志」
-### 2023年3月
-* _2023-03-07_： [东西方文化 001 开题序语](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/14#issue-1612972531)
-### 2023年2月
 * _2023-02-18_： [读《柔软说话》的一些想法](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/8#issue-1590360853)
 * _2023-02-08_： [碳中和赛道整理](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/e2eafda802568f948f743ec913c056551e0b9db6/2022-10-14%20_%20%E7%A2%B3%E4%B8%AD%E5%92%8C%E8%B5%9B%E9%81%93%E6%95%B4%E7%90%86.md)
 
