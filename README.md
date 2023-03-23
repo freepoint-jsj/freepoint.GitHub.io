@@ -25,7 +25,7 @@
 * _2023-02-18_： [读《柔软说话》的一些想法](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/8#issue-1590360853)
 * _2023-02-08_： [碳中和赛道整理](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/e2eafda802568f948f743ec913c056551e0b9db6/2022-10-14%20_%20%E7%A2%B3%E4%B8%AD%E5%92%8C%E8%B5%9B%E9%81%93%E6%95%B4%E7%90%86.md)
 
-## 「小米语录」
+## 「手机备忘」
 ### 2023年3月
 * _2023-03-12_：[活在自己的时区里](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/21#issue-1620039892)
 * _2023-03-12_：[生命意义的回答](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/22#issue-1620041019)
