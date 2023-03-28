@@ -12,6 +12,7 @@
 # 我的日志
 ## 「网络日志」
 ### 2023年3月
+* _2023-03-28_：[未来已来，奇点临近](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/main/%E6%9C%AA%E6%9D%A5%E5%B7%B2%E6%9D%A5%EF%BC%8C%E5%A5%87%E7%82%B9%E4%B8%B4%E8%BF%91%E3%80%82.md)
 * _2023-03-27_：[关于电子书、纸质书、数字化的一些随想](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/30#issue-1636948919)
 * _2023-03-23_：[阿尔贝·加缪1957年获颁诺贝尔文学奖时的原声演讲](https://telegra.ph/Camus-Nobel-Prize-acceptance-speech-03-22)
 * _2023-03-20_：[2030年后人类将逐渐永生](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/main/%E5%BA%93%E5%85%B9%E9%9F%A6%E5%B0%94%EF%BC%9A2030%E5%B9%B4%E5%90%8E%E4%BA%BA%E7%B1%BB%E5%B0%86%E9%80%90%E6%B8%90%E6%B0%B8%E7%94%9F%20.md)
