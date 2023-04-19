@@ -2,7 +2,7 @@
 - 用最简单的 _issue_ 来写的，简单、可讨论、可追溯历史就够了。
 - 喜欢的话可以订阅 `star`，订阅请点击 Watch 按钮，再选中 Watching 即可，这样每次有更新 github 就会提醒你。
 
-| 推她😂 | 电报🤓 | V2EX🧐 |
+| 推她 | 电报 | V2EX |
 |--------|--------|--------|
 | [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rotkaka13)  | ![image](https://user-images.githubusercontent.com/122953296/222032635-f5da0177-7ba3-4c05-acbc-3c92797c7524.png) [telegram](https://t.me/quweixiaoji) | ![image](https://user-images.githubusercontent.com/122953296/222033991-5d535bfd-859d-4628-ba32-94b4ed9b4028.png) [V2EX](https://www.v2ex.com/member/freepoint) | 
 
