@@ -8,6 +8,10 @@
 
 # 我的日志
 ## 「网络日志」
+### 2023年4月
+* _2023-04-19_：[有趣的元素周期表网站](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/32#issue-1674064241)
+* _2023-04-19_：[telegram 频道推荐](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/33#issue-1674067413)
+* _2023-04-19_：[初读维特根斯坦](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/34#issue-1674426311)
 ### 2023年3月
 * _2023-03-28_：[30多岁，网贷信用卡负债累累，还能继续生活吗？](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/main/30%E5%A4%9A%E5%B2%81%EF%BC%8C%E7%BD%91%E8%B4%B7%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%B4%9F%E5%80%BA%E7%B4%AF%E7%B4%AF%EF%BC%8C%E8%BF%98%E8%83%BD%E7%BB%A7%E7%BB%AD%E7%94%9F%E6%B4%BB%E5%90%97%EF%BC%9F.md)
 * _2023-03-28_：[未来已来，奇点临近](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/main/%E6%9C%AA%E6%9D%A5%E5%B7%B2%E6%9D%A5%EF%BC%8C%E5%A5%87%E7%82%B9%E4%B8%B4%E8%BF%91%E3%80%82.md)
