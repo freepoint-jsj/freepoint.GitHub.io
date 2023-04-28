@@ -11,7 +11,9 @@
 ## 「网络日志」
 
 ### 2023年4月
-* _2023-04-20_：[反思：两性的问题总是让人上瘾（上头）](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/37#issue-1676330579)
+* _2023-04-25_：[回忆肾结石的痛苦经历😞](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/42#issue-1682334202)
+* _2023-04-24_：[关于死亡的思考](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/41#issue-1681322834)
+* _2023-04-21_：[有趣的职业测试网站](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/40#issue-1678131985)
 * _2023-04-21_：[Markdown ▶ 折叠功能的思考）](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/39#issue-1678032411)
 * _2023-04-19_：[有趣的元素周期表网站](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/32#issue-1674064241)
 * _2023-04-19_：[telegram 频道推荐](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/33#issue-1674067413)
