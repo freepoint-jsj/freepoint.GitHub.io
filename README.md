@@ -1,16 +1,7 @@
-# 简要说明 
-- 用最简单的 _issue_ 和 _markdown_ 来记录和上传，简单、可讨论、可追溯历史就够了。
-- 喜欢的话可以订阅 `star`，订阅请点击 Watch 按钮，再选中 Watching 即可，这样每次有更新 github 就会提醒你。
-
-| 推特 | 电报 | V2EX |
-|--------|--------|--------|
-| [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rotkaka13)  | ![image](https://user-images.githubusercontent.com/122953296/222032635-f5da0177-7ba3-4c05-acbc-3c92797c7524.png) [telegram](https://t.me/quweixiaoji) | ![image](https://user-images.githubusercontent.com/122953296/222033991-5d535bfd-859d-4628-ba32-94b4ed9b4028.png) [V2EX](https://www.v2ex.com/member/freepoint) | 
-
-# 我的日志
-
-## 「网络日志」
-
-### 2023年4月
+__创作是一件开心的事情，沉浸只是因为纯粹的灵感。我希望自己的生命能够时常充满灵感，而文字就是这些愉快时光曾经存在过的证明。__
+<br>
+# 「网络日志」
+## 2023年4月
 * _2023-04-25_：[回忆肾结石的痛苦经历😞](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/42#issue-1682334202)
 * _2023-04-24_：[关于死亡的思考](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/41#issue-1681322834)
 * _2023-04-21_：[有趣的职业测试网站](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/40#issue-1678131985)
@@ -19,7 +10,7 @@
 * _2023-04-19_：[telegram 频道推荐](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/33#issue-1674067413)
 * _2023-04-19_：[初读维特根斯坦](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/34#issue-1674426311)
 
-### 2023年3月
+## 2023年3月
 * _2023-03-28_：[30多岁，网贷信用卡负债累累，还能继续生活吗？](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/main/30%E5%A4%9A%E5%B2%81%EF%BC%8C%E7%BD%91%E8%B4%B7%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%B4%9F%E5%80%BA%E7%B4%AF%E7%B4%AF%EF%BC%8C%E8%BF%98%E8%83%BD%E7%BB%A7%E7%BB%AD%E7%94%9F%E6%B4%BB%E5%90%97%EF%BC%9F.md)
 * _2023-03-28_：[未来已来，奇点临近](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/main/%E6%9C%AA%E6%9D%A5%E5%B7%B2%E6%9D%A5%EF%BC%8C%E5%A5%87%E7%82%B9%E4%B8%B4%E8%BF%91%E3%80%82.md)
 * _2023-03-27_：[关于电子书、纸质书、数字化的一些随想](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/30#issue-1636948919)
@@ -39,7 +30,7 @@
 </p>
 </details> 
 
-### 2023年2月
+## 2023年2月
 * _2023-02-27_： [分享几张壁纸](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/134d8457220af8a683609ab7384b0c0764376ef6/%E5%88%86%E4%BA%AB%E5%87%A0%E5%BC%A0%E5%A3%81%E7%BA%B8.md)
 * _2023-02-14_： [澳门电信SIM小蓝卡初体验](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/7#issue-1583917910)
 * _2023-02-09_： [关于极简主义生活方式的思考](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/5#issue-1577294481)
@@ -60,37 +51,15 @@
 </details> 
 
 
-### 2023年1月
+## 2023年1月
 * _2023-01-11_：[有用邮箱作为自己信息管理工具的人吗](https://www.v2ex.com/t/909245#reply13)
-
-## 「手机备忘」
-### 2023年3月
-* _2023-03-12_：[活在自己的时区里](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/21#issue-1620039892)
-* _2023-03-12_：[生命意义的回答](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/22#issue-1620041019)
-* _2023-03-12_：[浮生六记](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/23#issue-1620041359)
-<details><summary>更多</summary>
-<p>
-
-* _2023-03-12_：[人生如逆旅，我亦是行人](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/24#issue-1620042837)
-
-* _2023-03-12_：[凡人修仙，似水流年](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/25#issue-1620043568)
-
-* _2023-03-12_：[这才是朋友圈](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/26#issue-1620044230)
-
-* _2023-03-12_：[春有百花秋有月 ](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/27#issue-1620044749)
-
-* _2023-03-12_：[罗素的思考](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/28#issue-1620045142)
-
-* _2023-03-12_：[生活中素雅精致的物件](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/29#issue-1620045657)
-
-</p>
-</details> 
 
 
 # 我是谁？
 上升到哲学层面的问题，老实说，还没想好，但对我似乎很重要...
 
-# 建站想法
-- 关于建站，一开始有很多话要说，诸如炫文采、技巧，引流之类的。
-- 但静心细想，我觉得写东西应该是一种纯粹的热爱，不费力的输出。
-- 多年后自己看看，或是留与后人（但愿别倒闭），应该挺酷的吧...
+# 交友
+| 推特 | 电报 | V2EX |
+|--------|--------|--------|
+| [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rotkaka13)  | ![image](https://user-images.githubusercontent.com/122953296/222032635-f5da0177-7ba3-4c05-acbc-3c92797c7524.png) [telegram](https://t.me/quweixiaoji) | ![image](https://user-images.githubusercontent.com/122953296/222033991-5d535bfd-859d-4628-ba32-94b4ed9b4028.png) [V2EX](https://www.v2ex.com/member/freepoint) | 
+
