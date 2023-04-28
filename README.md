@@ -2,6 +2,7 @@ __创作是一件开心的事情，沉浸只是因为纯粹的灵感。我希望
 <br>
 # 「网络日志」
 ## 2023年4月
+* _2023-04-28_：[归家随想](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/43#issue-1688214290)
 * _2023-04-25_：[回忆肾结石的痛苦经历😞](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/42#issue-1682334202)
 * _2023-04-24_：[关于死亡的思考](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/41#issue-1681322834)
 * _2023-04-21_：[有趣的职业测试网站](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/40#issue-1678131985)
