@@ -7,11 +7,18 @@ __创作是一件开心的事情，沉浸只是因为纯粹的灵感。我希望
 * _2023-04-28_：[归家随想](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/43#issue-1688214290)
 * _2023-04-25_：[回忆肾结石的痛苦经历😞](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/42#issue-1682334202)
 * _2023-04-24_：[关于死亡的思考](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/41#issue-1681322834)
+
+<details><summary>更多</summary>
+<p>
+
 * _2023-04-21_：[有趣的职业测试网站](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/40#issue-1678131985)
 * _2023-04-21_：[Markdown ▶ 折叠功能的思考）](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/39#issue-1678032411)
 * _2023-04-19_：[有趣的元素周期表网站](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/32#issue-1674064241)
 * _2023-04-19_：[telegram 频道推荐](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/33#issue-1674067413)
 * _2023-04-19_：[初读维特根斯坦](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/34#issue-1674426311)
+
+</p>
+</details> 
 
 ## 2023年3月
 * _2023-03-28_：[30多岁，网贷信用卡负债累累，还能继续生活吗？](https://github.com/freepoint-jsj/freepoint.GitHub.io/blob/main/30%E5%A4%9A%E5%B2%81%EF%BC%8C%E7%BD%91%E8%B4%B7%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%B4%9F%E5%80%BA%E7%B4%AF%E7%B4%AF%EF%BC%8C%E8%BF%98%E8%83%BD%E7%BB%A7%E7%BB%AD%E7%94%9F%E6%B4%BB%E5%90%97%EF%BC%9F.md)
