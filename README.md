@@ -2,6 +2,7 @@ __创作是一件开心的事情，沉浸只是因为纯粹的灵感。我希望
 <br>
 # 「网络日志」
 ## 2023年5月
+* _2023-05-24_：[没想到我居然被电信诈骗了，花钱买教训](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/47#issue-1723569525)
 * _2023-05-12_：[我为什么而活着](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/46#issue-1707183588)
 * _2023-05-12_：[关于读书工具的随想](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/45#issue-1706796506)
 ## 2023年4月
