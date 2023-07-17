@@ -1,6 +1,8 @@
 __创作是一件开心的事情，沉浸只是因为纯粹的灵感。我希望自己的生命能够时常充满灵感，而文字就是这些愉快时光曾经存在过的证明。__
 <br>
 # 「网络日志」
+## 2023年7月
+* _2023-07-17_：[进城打工30多年，最后好像和一直在村里的人也没什么差别。](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/50#issue-1807206435)
 ## 2023年5月
 * _2023-05-24_：[没想到我居然被电信诈骗了，花钱买教训](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/47#issue-1723569525)
 * _2023-05-12_：[我为什么而活着](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/46#issue-1707183588)
