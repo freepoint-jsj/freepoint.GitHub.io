@@ -1,6 +1,8 @@
 __创作是一件开心的事情，沉浸只是因为纯粹的灵感。我希望自己的生命能够时常充满灵感，而文字就是这些愉快时光曾经存在过的证明。__
 <br>
 # 「网络日志」
+## 2023年9月
+* _2023-09-08_：[关于农村老人养老金问题（希望能帮到某些人）](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/54#issue-1887067903)
 ## 2023年8月
 * _2023-08-24_：[用TXT是没的选了还是大佬的钟爱？](https://github.com/freepoint-jsj/freepoint.GitHub.io/issues/53#issue-1864696223)
 ## 2023年7月
